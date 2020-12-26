@@ -21,12 +21,10 @@ Launch the program with Python and with a list of tickers for whom you'd want to
 
 example:
 ```
-python3.8 WSBscrapper.py TSLA PTON
+python3.8 WSBscrapper.py TSLA
 ```
 Results
 ```
-https://www.reddit.com/r/wallstreetbets/search?q=TSLA&restrict_sr=1&sort=new
-
 Posts for TSLA
 ----
 A summary of the GME meme machine
