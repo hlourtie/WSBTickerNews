@@ -9,7 +9,7 @@ Only requirements are that you have [Selenium](https://selenium-python.readthedo
 ```python
 pip3 install selenium
 ```
-and that you have [chromium driver](https://chromedriver.chromium.org/downloads "Chromium DownLoad") installed in your 
+and that you have the [chromium driver](https://chromedriver.chromium.org/downloads "Chromium DownLoad") installed in your 
 ```
 /usr/local/bin/
 ```
